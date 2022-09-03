@@ -1,0 +1,8 @@
+This array file is a basic JS application of findind which is greatest and smallest no in an array.
+
+How to RUN:
+	Type some number in the input field and press add button. 
+	add button will add your no number to an array object. 
+	if only one no will be there in array then that no will be both largest and smallest so try adding some good amount of number. 
+	press butten named as smallest no to get smaller no and largest mo. to get larger no.
+	an allert box will appear after pressing buttion which will tell you which no is smallest and which one largest.  
